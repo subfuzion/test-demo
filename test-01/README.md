@@ -15,7 +15,7 @@ The second command works because mocha has been added to package.json scripts.
 Just like 'start', 'test' is special. Normally script commands must be run using
 the following format:
 
-   $ npm run &lt;script&gt;
+    $ npm run &lt;script&gt;
 
 Of course, the full format also works for 'start' and 'test'.
 
