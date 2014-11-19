@@ -1,0 +1,19 @@
+{
+  "name": "test-02",
+  "version": "1.0.0",
+  "description": "Simple mocha demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "devDependencies": {
+    "hippie": "^0.3.0",
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
